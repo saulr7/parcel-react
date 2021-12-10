@@ -6,4 +6,4 @@
 
 ## Run
 
-` yarn parcel public/index.html `
+` yarn start `
